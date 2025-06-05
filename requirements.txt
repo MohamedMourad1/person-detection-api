@@ -1,5 +1,4 @@
 # person-detection-api
-# requirements.txt
 fastapi==0.104.1
 uvicorn[standard]==0.24.0
 ultralytics==8.0.196
