@@ -1,1 +1,10 @@
 # person-detection-api
+# requirements.txt
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+ultralytics==8.0.196
+torch==2.1.0
+torchvision==0.16.0
+pillow==10.0.1
+numpy==1.24.3
+python-multipart==0.0.6
